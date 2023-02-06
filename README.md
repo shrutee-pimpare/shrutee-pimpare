@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA,Web Development**
 
-- 📫 How to reach me **shruteepimpare209@gmail.com**
+- 📫 reach me at **shruteepimpare209@gmail.com**
 
 - ⚡ Fun fact **I love Travelling**
 
