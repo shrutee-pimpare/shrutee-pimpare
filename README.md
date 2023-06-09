@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrutee</h1>
 <h3 align="center">Frontend Developer and Programmar</h3>
 
-- 🔭 I’m currently working on **Profile Building**
+- 🔭 I’m currently working on **DSA**
 
 - 🌱 I’m currently learning **DSA,Web Development**
 
